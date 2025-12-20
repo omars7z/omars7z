@@ -4,8 +4,7 @@
 
 ### 👩‍💻 About Me
 * [cite_start]🎓 **Tech enthusiast** from Jordan University of Science and Technology.
-* [cite_start]🚀 **Software and AI Engineer** with experience in Backend, JWT, Microservices, Cloud Computing, Agentic Workflows, LLMs
-🚀 **Software and AI Engineer** with experience in:
+* [cite_start]🚀 **Software and AI Engineer** with experience in:
   > [cite_start]**Backend:** Python, Java, FastAPI, Flask, JWT, Microservices [cite: 15, 21, 23, 30]
   > [cite_start]**AI & Data:** RAG, LLMs, LangChain, Computer Vision, Pandas [cite: 15, 23, 33, 36]
   > [cite_start]**Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD, Jenkins [cite: 15, 25, 31, 46]
