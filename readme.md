@@ -5,12 +5,20 @@
 ### 👩‍💻 About Me
 * [cite_start]🎓 **Tech enthusiast** from Jordan University of Science and Technology.
 * [cite_start]🚀 **Software and AI Engineer** with experience in:
-  > [cite_start]**Backend:** Python, Java, FastAPI, Flask, JWT, Microservices [cite: 15, 21, 23, 30]
-  > [cite_start]**AI & Data:** RAG, LLMs, LangChain, Computer Vision, Pandas [cite: 15, 23, 33, 36]
-  > [cite_start]**Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD, Jenkins [cite: 15, 25, 31, 46]
+  > [cite_start]**Backend:** Python, Java, FastAPI, Flask, JWT, Microservices 
+  > [cite_start]**AI & Data:** RAG, LLMs, LangChain, Computer Vision, Pandas 
+  > [cite_start]**Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
 * 🎯 **Goals:** Unlock insights from data and design impactful AI solutions.
-* 🎲 **Fun fact:** My first "AI" thought a cat was a toaster. 🐱→🍞
+---
+
+### 🤝 Open for Research & Contributions
+* 🤖 **Agentic Workflows:** Multi-agent systems and autonomous AI research.
+* 🏗️ **Distributed Systems:** Building scalable, fault-tolerant backend architectures.
+* 🧠 **RAG & LLM Optimization:** Enhancing retrieval accuracy and model efficiency.
+
+**feel free to contact me** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-altamimi-3a6883207/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamomarjr@gmail.com)
 
 ### 🛠 Languages and Tools
 <p align="left">
@@ -23,9 +31,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/chain.png" alt="langchain" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/brain-monitor.png" alt="llm" width="40" height="40"/>
-
+  <img src="https://cdn.simpleicons.org/langchain/000000" alt="langchain" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="llm" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
