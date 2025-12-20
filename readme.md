@@ -5,7 +5,8 @@
 ### 👩‍💻 About Me
 * 🎓 **Tech enthusiast** from Jordan University of Science and Technology.
 * ]🚀 **Software and AI Engineer** with experience in:
-  > **Backend:** Python, Java, FastAPI, Flask, JWT, Microservices 
+  > **Backend:** Python, Java, FastAPI, Flask, JWT, Microservices
+  > 
   > **AI & Data:** RAG, LLMs, LangChain, Computer Vision, Pandas 
   > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
