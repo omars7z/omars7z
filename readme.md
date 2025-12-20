@@ -11,17 +11,18 @@
 * 🎲 **Fun fact:** My first "AI" thought a cat was a toaster. 🐱→🍞
 
 ### 🛠 Languages and Tools
+
 <p align="left">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/5379775116604815869_0" width="40" height="40" alt="python" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/2521990690534078798_0" width="40" height="40" alt="pandas" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/8603523077610885264_0" width="40" height="40" alt="numpy" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/17793286499379066753_0" width="40" height="40" alt="mysql" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/771758047005115567_0" width="40" height="40" alt="git" />
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/12823642577669296129_0" width="40" height="40" alt="anaconda" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📈 Current Projects
-* [cite_start]**Decentralized Clustered DB:** A SpringBoot system for efficient data processing[cite: 45, 46].
+* [cite_start]**Decentralized Clustered noSQL DB:** A SpringBoot system for efficient data processing[cite: 45, 46].
 * **SmartLearner AI:** Multi-agent architecture for educational empowerment.
