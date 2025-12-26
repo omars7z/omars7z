@@ -11,6 +11,7 @@
   >  
   > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
+* 🏆 **Achevments** ACM, IEEEXtreme, AWS Cloud Practitioner, Amazon Teckathon, Hult Prize, MUN Winner
 * 🎯 **Goals:** Unlock insights from data and design impactful AI solutions.
 ---
 
