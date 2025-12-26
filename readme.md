@@ -1,6 +1,6 @@
 # Hellooo, I'm Omar! 👋
 
-> "Without data, you're just another person with an opinion."
+> "Without data, you're just another person without an opinion."
 
 ### 👩‍💻 About Me
 * 🎓 **Tech enthusiast** from Jordan University of Science and Technology.
@@ -47,4 +47,4 @@
 ### 📈 Current Projects
 * [**Decentralized Clustered noSQL DB:** A SpringBoot system for efficient data processing
 * **SmartLearner AI:** Multi-agent architecture for effiecnt neural phase focus
-* **Employees Projects Tracker: created a timesheets platform for 100+ employees with continuous DevOps monitoring 
+* **Employees Projects Tracker:** created a timesheets platform for 100+ employees with continuous DevOps monitoring 
