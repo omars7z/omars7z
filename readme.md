@@ -9,14 +9,14 @@
   > 
   > **AI & Data:** RAG, LLMs, LangChain, Computer Vision, Pandas
   >  
-  > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD, Jenkins 
+  > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
 * 🎯 **Goals:** Unlock insights from data and design impactful AI solutions.
 ---
 
 ### 🤝 Open for Research & Contributions
 * 🤖 **Agentic Workflows:** Multi-agent systems and autonomous AI research.
-* 🏗️ **Distributed Systems:** Building scalable, fault-tolerant backend architectures.
+* 🏗️ **Distributed Systems:** Building scalable, fault-tolerant backend architectures (Microservices)
 * 🧠 **RAG & LLM Optimization:** Enhancing retrieval accuracy and model efficiency.
 
 **feel free to contact me** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-altamimi-3a6883207/)
@@ -45,5 +45,6 @@
 ---
 
 ### 📈 Current Projects
-* [cite_start]**Decentralized Clustered noSQL DB:** A SpringBoot system for efficient data processing[cite: 45, 46].
-* **SmartLearner AI:** Multi-agent architecture for educational empowerment.
+* [**Decentralized Clustered noSQL DB:** A SpringBoot system for efficient data processing
+* **SmartLearner AI:** Multi-agent architecture for effiecnt neural phase focus
+* **Employees Projects Tracker: created a timesheets platform for 100+ employees with continuous DevOps monitoring 
