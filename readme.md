@@ -7,7 +7,7 @@
 * ]🚀 **Software and AI Engineer** with experience in:
   > **Backend:** Python, Java, FastAPI, Flask, JWT, Microservices
   > 
-  > **AI & Data:** RAG, LLMs, LangChain, Computer Vision, Pandas
+  > **AI & Data:** RAG, LLMs, LangChain, LangGraph, Hugging Face, Computer Vision, Pandas, MCP
   >  
   > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
