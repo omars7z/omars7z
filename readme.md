@@ -7,11 +7,11 @@
 * ]🚀 **Software and AI Engineer** with experience in:
   > **Backend:** Python, Java, FastAPI, Flask, JWT, Microservices
   > 
-  > **AI & Data:** RAG, LLMs, LangChain, LangGraph, Hugging Face, Computer Vision, Pandas, MCP
+  > **AI & Data:** RAG, LLMs, NLP, LangChain, LangGraph, Hugging Face, Computer Vision, Pandas, MCP
   >  
   > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
-* 🏆 **Achevments** ACM, IEEEXtreme, AWS Cloud Practitioner, Amazon Teckathon, Hult Prize, MUN Winner
+* 🏆 **Achevments** ACM ICICS 2026, IEEEXtreme, AWS Cloud Practitioner, Amazon Teckathon, Hult Prize, MUN Winner
 * 🎯 **Goals:** Unlock insights from data and design impactful AI solutions.
 ---
 
