@@ -1,13 +1,14 @@
 # Hellooo, I'm Omar! 👋
 
 > "Without data, you're just another person without an opinion."
+> Junior AI Engineer
 
 ### 👩‍💻 About Me
-* 🎓 **Tech enthusiast** from Jordan University of Science and Technology.
-* ]🚀 **Software and AI Engineer** with experience in:
+* 🎓 **Experienced AI Engineer** Jordan University of Science and Technology.
+* ]🚀 **experience in:**
   > **Backend:** Python, Java, FastAPI, Flask, JWT, Microservices
   > 
-  > **AI & Data:** RAG, LLMs, NLP, LangChain, LangGraph, Hugging Face, Computer Vision, Pandas, MCP
+  > **AI & Data:** RAG, LLMs, NLP, LangChain, LangGraph, Hugging Face, Computer Vision, Pandas, MCP, Microsoft Foundry
   >  
   > **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Jenkins 
 * 📚 **Currently diving into** neural networks and predictive analytics.
